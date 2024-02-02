@@ -6,4 +6,4 @@ This app perform severals tasks with the text :
 4) Clear text.
 5) Remove extra spaces from text.
 Note : To instll node-modules folder type (npm install)
-if(code face any problem run command (npm audit fix --force)
+if code face any problem run command (npm audit fix --force)
